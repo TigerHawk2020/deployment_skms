@@ -1,0 +1,82 @@
+body {       
+font-family:Tahoma;
+font-size:12;       
+color:#000000;
+background:#ffffff;
+scrollbar-face-color : #66CCFF;
+scrollbar-shadow-color : #336699;
+scrollbar-highlight-color : #336699;
+scrollbar-3dlight-color : #ffffff;
+scrollbar-darkshadow-color : #ffffff;
+scrollbar-track-color : #ffffff;
+scrollbar-arrow-color : #336699;
+}
+.fecha {
+font-family:Tahoma;
+font-size:10px;       
+font-weight:bold;
+color:#ffffff;
+}
+.txt12td {
+font-family:Tahoma;
+font-size:14px;       
+font-weight:bold;
+color:#ffffff;
+}
+.txt11tdb {
+font-family:Tahoma;
+font-size:11px;       
+font-weight:bold;
+color:#ffffff;
+}
+.txt11td {
+font-family:Tahoma;
+font-size:11px;       
+color:#aaaaaa;
+}
+.txtcopy {
+font-family:Tahoma;
+font-size:10px;
+color:#aaaaaa;     
+}
+.txtnota {
+font-family:verdana;
+font-size:9px;
+color:#999999;     
+}
+.txtcontenido {
+font-family:Tahoma;
+font-size:12px;
+color:#006699;     
+}
+.txt11titulo{
+font-family:verdana;
+font-size:11px;
+color:#003366;
+}
+.txt9titulo{
+font-family:verdana;
+font-size:9px;
+color:#003366;
+}
+.txt9contenido {
+font-family:verdana;
+font-size:9px;
+color:#006699;     
+}
+ 
+.menu:link {
+FONT: 11px/1.5 Tahoma; color:#fff; text-decoration:none; font-weight:bold;
+}
+
+.menu:visited {
+FONT: 11px/1.5 Tahoma; color:#fff; text-decoration:none; font-weight:bold;
+}
+
+.menu:active {
+FONT: 11px/1.5 Tahoma; color:#fff; text-decoration:none; font-weight:bold;
+}
+
+.menu:hover {
+FONT: 11px/1.5 Tahoma; color:#fff; text-decoration:none; font-weight:bold;
+}

@@ -1,0 +1,166 @@
+body {
+FONT: 11px/1.5 verdana;
+bgcolor:#ffffff;
+scrollbar-face-color : #66CCFF;
+scrollbar-shadow-color : #336699;
+scrollbar-highlight-color : #336699;
+scrollbar-3dlight-color : #ffffff;
+scrollbar-darkshadow-color : #ffffff;
+scrollbar-track-color : #ffffff;
+scrollbar-arrow-color : #336699;
+}
+.txtcopy {
+font-family:verdana;
+font-size:9px;
+color:#aaaaaa;     
+}
+.txt9titulo{
+font-family:verdana;
+font-size:9px;
+color:#003366;
+}
+.fecha {
+font-family:tahoma,verdana;
+font-size:9px;
+color:#000000;     
+}
+
+.button {
+BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; FONT: bold 11px verdana, sans-serif; BORDER-LEFT: #000 1px solid; CURSOR: hand; COLOR: #fff; BORDER-BOTTOM: #000 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #3399cc; }
+
+.button_gris {
+BORDER-RIGHT: #444 1px solid; BORDER-TOP: #444 1px solid; FONT: 11px sans-serif, tahoma, verdana; BORDER-LEFT: #444 1px solid; CURSOR: hand; COLOR: #000; BORDER-BOTTOM: #444 1px solid; HEIGHT: 17px; BACKGROUND-COLOR: #ccc;
+          }
+
+td {
+ FONT: 11px/1.5 verdana
+}
+
+input {
+FONT: 11px/1.5 verdana; background-color: #eeeeee;
+border : 1px, solid ; border-color : #aaaaaa ;          
+}
+
+.inputimg {
+FONT: 11px/1.5 verdana; border: 0px;          
+}
+
+textarea {
+FONT: 11px/1.5 verdana;background-color: #eeeeee;
+border : 1px, solid ; border-color : #aaaaaa ; 
+}
+
+.barra {
+background:#eeeeee;
+scrollbar-face-color : #66CCFF;
+scrollbar-shadow-color : #336699;
+scrollbar-highlight-color : #336699;
+scrollbar-3dlight-color : #eeeeee;
+scrollbar-darkshadow-color : #eeeeee;
+scrollbar-track-color : #eeeeee;
+scrollbar-arrow-color : #336699;
+}
+
+select { 
+background-color: #eeeeee; color: #000000 ; 
+font-family : verdana ; font-size: 8pt ;
+border : 1px, solid; border-color: #aaaaaa;  
+}
+
+input.checkbox {
+FONT: 11px/1.5 verdana;      
+}
+
+<!-- ****************************************************************** -->
+a:link {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+       }
+
+a:visited {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+          }
+
+a:active {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+         }
+
+a:hover {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:underline;
+        }
+
+<!-- ****************************************************************** -->
+
+.menu:link {
+           FONT: 10px/1.5 tahoma; color:#003366; text-decoration:none;       
+       }
+
+.menu:visited {
+           FONT: 10px/1.5 tahoma; color:#003366; text-decoration:none;       
+          }
+
+.menu:active {
+           FONT: 10px/1.5 tahoma; color:#003366; text-decoration:none;       
+         }
+
+.menu:hover {
+           FONT: 10px/1.5 tahoma; color:#ffffff; text-decoration:none;
+        }
+<!-- ****************************************************************** -->
+
+.ini:link {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none; font-weight:bold;
+       }
+
+.ini:visited {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none; font-weight:bold;
+          }
+
+.ini:active {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none; font-weight:bold;
+         }
+
+.ini:hover {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:underline; font-weight:bold;
+        }
+
+<!-- ****************************************************************** -->
+<!-- ****************************************************************** -->
+.cerrar:link {
+           FONT: 11px/1.5 verdana; color:#bbb; text-decoration:none;       
+       }
+
+.cerrar:visited {
+           FONT: 11px/1.5 verdana; color:#bbb; text-decoration:none;       
+          }
+
+.cerrar:active {
+           FONT: 11px/1.5 verdana; color:#bbb; text-decoration:none;       
+         }
+
+.cerrar:hover {
+           FONT: 11px/1.5 verdana; color:#336699; text-decoration:none;
+        }
+
+<!-- ****************************************************************** -->
+<!-- ****************************************************************** -->
+.navegador:link {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;      
+           font-weight:bold; 
+       }
+
+.navegador:visited {
+           FONT: 11px/1.5 verdana; color:#aaa; text-decoration:none;       
+           font-weight:bold; 
+          }
+
+.navegador:active {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+           font-weight:bold; 
+         }
+
+.navegador:hover {
+           FONT: 11px/1.5 verdana; color:#336699; text-decoration:underline;
+           font-weight:bold; 
+        }
+
+<!-- ****************************************************************** -->

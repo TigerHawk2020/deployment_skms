@@ -1,0 +1,254 @@
+body {
+FONT: 11px/1.5 verdana;
+background:#ffffff;
+scrollbar-face-color : #66CCFF;
+scrollbar-shadow-color : #336699;
+scrollbar-highlight-color : #336699;
+scrollbar-3dlight-color : #ffffff;
+scrollbar-darkshadow-color : #ffffff;
+scrollbar-track-color : #ffffff;
+scrollbar-arrow-color : #336699;
+}
+.txtcopy {
+font-family:verdana;
+font-size:9px;
+color:#aaaaaa;     
+}
+  .error {
+           FONT: 11px/1.5 verdana;
+           color=red;
+         }
+  h3 {
+       font-family:Verdana;
+       text-decoration:underline;
+       font-style:italic;
+     }
+  .blanco {
+           FONT: 11px/1.5 verdana; font-weight:bold;
+           color=#ffffff;
+         }
+  .button {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; FONT: bold 11px verdana, sans-serif; BORDER-LEFT: #000 1px solid; CURSOR: hand; COLOR: #fff; BORDER-BOTTOM: #000 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #00ccff; }
+
+  .button_gris {
+	BORDER-RIGHT: #444 1px solid; BORDER-TOP: #444 1px solid; FONT: 11px sans-serif, tahoma, verdana; BORDER-LEFT: #444 1px solid; CURSOR: hand; COLOR: #000; BORDER-BOTTOM: #444 1px solid; HEIGHT: 17px; BACKGROUND-COLOR: #ccc;
+          }
+
+  td {
+	FONT: 11px/1.5 verdana
+     }
+
+  .contenido {
+	FONT: 12px/1.5 tahoma;
+        text-align:justify;
+     }
+
+ .inputimg {
+	  FONT: 11px/1.5 verdana; border:0px
+        }
+
+  .inputgris {
+	  FONT: 11px/1.5 verdana; background-color: #eeeeee;
+           border : 1px, solid ; border-color : #aaaaaa ;          
+        }
+
+  .classinput {
+	  FONT: 11px/1.5 verdana;
+          color: #ffffff;
+          background-color: #3399cc;
+          border-top: #999999 1px outset;
+          border-left: #999999 1px outset;
+          cursor: hand;
+        }
+
+
+
+  .casilla {
+	  FONT: 11px/1.5 verdana; 
+	  	  background-color: #cccccc;
+          border:0;
+          font-weight:bold; 
+          text-align=center;
+          outline:none;
+        }
+
+  .casillaSuma {
+	  FONT: 11px/1.5 verdana; background-color: #ffcc00;
+          border : 0;
+          font-weight:bold; text-align=center;
+          outline:none;
+        }
+
+.casillapwd {
+	  FONT: 10px/1.5 verdana; 
+	  background-color: red;
+          border:0;
+          font-weight:bold; 
+          text-align=center;
+          outline:none;
+        }
+
+.casillapwd_nat {
+	  FONT: 10px/1.5 verdana; 
+	  background-color: #cccccc;
+          border:0;
+          font-weight:bold; 
+          text-align=center;
+          outline:none;
+        }
+        
+        
+  textarea {
+	  FONT: 11px/1.5 verdana;background-color: #eeeeee;
+           border : 1px, solid ; border-color : #aaaaaa ; 
+        }
+
+select { background-color: #eeeeee; color: #000000 ; 
+         font-family : verdana ; font-size: 8pt ;
+         border : 1px, solid; border-color: #aaaaaa;  }
+
+.combinadorselect { background-color: #eeeeee; color: #000000 ; 
+         font-family : verdana ; font-size: 16pt ;
+         border : 1px, solid; border-color: #aaaaaa;
+         scrollbar-face-color : #66CCFF;
+         scrollbar-shadow-color : #336699;
+         scrollbar-highlight-color : #336699;
+         scrollbar-3dlight-color : #ffffff;
+         scrollbar-darkshadow-color : #ffffff;
+         scrollbar-track-color : #ffffff;
+         scrollbar-arrow-color : #336699;
+                  }
+
+.xselect { background-color: #eeeeee; color: #000000 ; 
+         font-family : verdana ; font-size: 12pt ;
+         border : 0px, solid; border-color: #aaaaaa;  }
+
+
+input.checkbox {
+	     FONT: 11px/1.5 verdana;
+           }
+
+input.border1	{ background-color: #ffffff; color: #000000 ; font-family : tahoma ; font-size: 8pt ; border : 1px, solid ; border-color : #555555 ;}
+
+input.button1	
+   { 
+     background-color: #000000; color: #ffffff ; font-family : tahoma ; font-size: 8pt ; 
+     border : 1px, solid}
+
+
+<!-- ****************************************************************** -->
+
+.menu:link {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none;       
+       }
+
+.menu:visited {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none;       
+          }
+
+.menu:active {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none;       
+         }
+
+.menu:hover {
+           FONT: 11px/1.5 tahoma; color:#ffffff; text-decoration:none;
+        }
+<!-- ****************************************************************** -->
+
+
+.sorteo:link {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;
+           font-weight: bold;       
+       }
+
+.sorteo:visited {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;
+           font-weight: bold;       
+       }
+
+.sorteo:active {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;
+           font-weight: bold;       
+       }
+
+.sorteo:hover {
+           FONT: 11px/1.5 verdana; color:#0099cc; text-decoration: underline;
+           font-weight: bold;       
+       }
+
+<!-- ****************************************************************** -->
+a:link {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+       }
+
+a:visited {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+          }
+
+a:active {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+         }
+
+a:hover {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:underline;
+        }
+
+<!-- ****************************************************************** -->
+.modulo:link {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+           font-weight:bold;
+       }
+
+.modulo:visited {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+           font-weight:bold;
+          }
+
+.modulo:active {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+           font-weight:bold;
+         }
+
+.modulo:hover {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:underline;       
+           font-weight:bold;
+        }
+<!-- ****************************************************************** -->
+.navegador:link {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;      
+           font-weight:bold; 
+       }
+
+.navegador:visited {
+           FONT: 11px/1.5 verdana; color:#aaa; text-decoration:none;       
+           font-weight:bold; 
+          }
+
+.navegador:active {
+           FONT: 11px/1.5 verdana; color:#000; text-decoration:none;       
+           font-weight:bold; 
+         }
+
+.navegador:hover {
+           FONT: 11px/1.5 verdana; color:#336699; text-decoration:underline;
+           font-weight:bold; 
+        }
+
+<!-- ****************************************************************** -->
+.cerrar:link {
+           FONT: 11px/1.5 verdana; color:#bbb; text-decoration:none;       
+       }
+
+.cerrar:visited {
+           FONT: 11px/1.5 verdana; color:#bbb; text-decoration:none;       
+          }
+
+.cerrar:active {
+           FONT: 11px/1.5 verdana; color:#bbb; text-decoration:none;       
+         }
+
+.cerrar:hover {
+           FONT: 11px/1.5 verdana; color:#336699; text-decoration:none;
+        }
+
+<!-- ****************************************************************** -->

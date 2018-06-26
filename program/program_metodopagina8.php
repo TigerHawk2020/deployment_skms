@@ -1,0 +1,11 @@
+  <tr>
+    <td>
+       <p class="contedido" style="text-align:justify;">
+PERO EL METODO Y SU CALCULADOR ESTAN PRINCIPALMENTE DISEÑADOS PARA JUGAR EN LA MODALIDAD DE COMBINACIONES QUE ABARQUEN UN CIERTO CAMPO (SUMAS) (Dentro de esta Banda ahora de 96 a 192 con mayores  posibilidades   ya  que  tomando  desde  el   sorteo      N°. 556 al N°. 1547 de nuestro cierre con 44 números y por los resultados estadísticos, indican que ese 91% (ver Pág. 5) ahora con 47 números,  será menor  y  aprox.  de  (82 a 83% ) de ellas, se espera ahora estadísticamente se darán con valores dentro de la Banda mencionada (Ya que el campo de posibilidades en contra aumento) lo que indica que nuestra banda de resultados probables también aumentara  y en la misma proporción nuestras posibilidades disminuirán por lo que (intuitivamente) nos damos cuenta que este razonamiento es  correcto.  Así las cosas:
+<br><br>
+ podrían considerarse una DETERMINADA CANTIDAD DE COMBINACIONES  (Se recomienda en grupos de varios jugadores comúnmente llamadas “VAQUITAS” y sugerimos (En esta forma)  la  razonable cantidad de 6, 10, 20, 30, 50, 64 o 144 combinaciones, (o mas) según sea la cantidad de dinero que se quiera jugar de acuerdo al monto del premio principal  del concurso o sorteo y el riesgo y capacidad economica de los jugadores. Mas  adelante le indicaremos como usar o aplicar los limites en las SERIES de (los números a elegir) en el GENERADOR de COMBINACIONES para obtener las diferentes cantidades de ellas.(Y que ud.  analizara al  usarlo)
+<br><br>
+*** NOTA).- Aquí  nosotros podríamos hablarle a Ud. de cómo determinar o seleccionar esos números basándose en los PRINCIPIOS  en los que se basa la “TEORIA DE LAS PROBABILIDADES” y la INTERPRETACION y VALORACION   de dichos PRINCIPIOS y los COEFICIENTES que se encuentran  o derivan de  ellos y su aplicación,  para la DETERMINACIÓN MAS ADECUADA, de CADA UNO DE DICHOS SUMANDOS  O  NÚMEROS  que  INTEGRARAN  la COMBINACION   RESULTANTE
+       </p>
+    </td>
+  </tr>

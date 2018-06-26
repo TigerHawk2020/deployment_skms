@@ -1,0 +1,18 @@
+  <tr>
+    <td>
+       <p class="contedido" style="text-align:justify;">
+pero lo anterior aparte de  NO ser el OBJETIVO PRINCIPAL  que persigue el método Skymoney System &reg; que estamos proponiéndole a Ud. es muy engorroso y difícil  y  además exige  del  usuario  una  previa y adecuada  capacitación en Matemáticas y  enfrascarnos  en el estudio, interpretación, discusión, valoración y aplicación   de  uno o varios  de  dichos principios, lo que entre otras cosas, nos alejaría de nuestro objetivo,  en  una  teoría en la que  desde hace muchos años  y hasta la fecha  no se  llega  a  conclusiones determinantes o definitivas.  Por lo que y (únicamente) para facilitarle al usuario la aplicación y comprensión del METODO que aquí proponemos le daremos la definición de “PROBABILIDAD” según uno de dichos tratados, que no es mas que :
+<br><br>
+<i><b>“una fraccion cuyo numerador es el numero de casos favorables a un acontecimiento  y  cuyo  denominador  es el numero total de casos posibles “</b></i>
+<br><br>
+También  le mencionaremos a Ud.   y  con el mismo objetivo (del que se dará UD cuenta mas adelante, porque, al ver los coeficientes respectivos), de una manera somera, lo siguiente:   En  todos los eventos o (sorteos) en que los  (resultados) son FORTUITOS y REPETITIVOS como el que nos ocupa,  estos   son   “ALEATORIOS”  es decir   tienden   a  IGUALARSE **        ( Y esta  es la razon por la que la Base de Datos anterior de todos los sorteos,  c/ 44 numeros sigue siendo util).
+<br><br>
+**NOTA).- esta característica  le sugerimos al usuario del sistema Skymoney System &reg; la tome en cuenta al momento de elegir  sus números  y/o  sus sumas o dígitos resultantes de la sumas, porque  tiene  cierta importancia al momento de elegir ya sea un numero, una suma o un determinado  ( Digito de suma)   “Según sea el apoyo grafico que ud. este utilizando, de la base de datos” la cantidad de sorteos o concursos que han transcurrido               ( frecuencia ) y determinado(s) numero(s) o suma(s) resultante(s) o (Digitos) no se han dado o no han resultado, en el sorteo <i>“LO QUE AUMENTA SU POSIBILIDAD DE APARICION   A   LA   HORA   DE  PENSARLOS,  O  CONSIDERARLOS.”</i>  
+<br><br>
+Nosotros recomendamos al usuario antes de aplicar su Combinador o Generador de Combinaciones , para establecer los Limites Numéricos de sus Sumas  elegir con ayuda de sus    “ Graficas y Estadísticas ”,  unos limites numericos que esten y/o se puedan elegir entre un numero  que ha resultado Frecuentemente y otro (S) (Si es posible) y esta dentro de los limites del pronostico pensado, que No Haya  Resultado Frecuentemente)  y con Diferencia(S) de  Una, Dos, Tres, o hasta Cuatro Unidades , (Entre mas unidades de separación (vertical) entre numero y numero Elija UD. mas Aumentara su Campo  Agrandara su Banda de  posibilidades  y resultaran) MAS COMBINACIONES       (PERO AUMENTARA SU COSTO).                                            
+<br><br>
+** Nota.- Para establecer o definir su pronostico le recomendamos a todos nuestros apreciables usuarios, seguir la secuencia que describiremos a continuación:  Analizar primero su grafica general de (sumas resultantes) de sorteo a sorteo (esta se accesa sin usar el filtro), con objeto de que se forme una idea   de cómo varían o cambian estas y a partir del ultimo resultado, hacia  que parte del campo o banda, considera,  resultara,  el próximo  sorteo, a  continuación y  usando  el  Frecuenciometro de nuestro Sistema, este le mostrara  la ultima posición  o resultado de cada suma y su digito correspondiente (del  1 hasta el 9 ) y el numero de sorteos (frecuencia) de aparición que le corresponde 
+
+       </p>
+    </td>
+  </tr>
