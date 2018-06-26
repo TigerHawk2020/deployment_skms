@@ -1,3 +1,3 @@
 <?php
-header("Location: http://skms.mx");
+    header("Location: http://skms.mx");
 ?>
