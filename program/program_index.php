@@ -34,9 +34,9 @@ function auth($login='', $passwd) {
                          }
                          return true;
                     }
-                    else { @mysql_close($db); return false; }
+                    else { @mysqli_close($db); return false; }
                 }
-    else { @mysql_close($db);
+    else { @mysqli_close($db);
  return false; }
  }
 
@@ -74,7 +74,7 @@ function loginform($error = false) {
                 <td><input type="text" class="inputgris" name="username" value=""></td>
              </tr>
              <tr>
-                <td align="right">Contraseña</td>
+                <td align="right">Contrase&ntilde;a</td>
                 <td>&nbsp;</td>
                 <td><input type="password" class="inputgris" name="passwd" value=""></td>
              </tr>

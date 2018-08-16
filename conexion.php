@@ -1,7 +1,12 @@
 <?php
 
-$db = mysql_connect('localhost', 'skm72mx482', '2gUb0Pu7v9');
+$db = new mysqli('localhost', 'root', '2gUb0Pu7v9');
 //$db = mysql_connect('localhost', 'root', '');
-mysql_select_db('skm72mx482_skms', $db);
+mysqli_select_db('skm72mx482_skms', $db);
+
+
+//$mysqli = new mysqli('127.0.0.1', 'root', 'root', 'basededatos1');
+//$mysqli->set_charset("utf8");
+
 
 ?>
